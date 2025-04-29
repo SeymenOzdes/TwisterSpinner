@@ -4,7 +4,7 @@ Twister Spinner, klasik **Twister** oyunu için geliştirilmiş dijital bir spin
 
 ## Neden Bu Uygulamayı Yaptım?
 
-Evde oynadığımız **Twister** oyununun fiziksel spinner'ının imleci kaybolmuştu. Oyunu oynamak istiyorduk ama hangi el ya da ayağın hangi renge gideceğine karar verecek bir mekanizma yoktu. Annemizden yardım almamız gerekiyordu ve buda sorun yaratıyordu. Bu yüzden **kardeşimle daha rahat ve eğlenceli Twister oynayabilmek için** bu uygulamayı geliştirdim. 🎉
+Evde oynadığımız **Twister** oyununun imleci kaybolmuştu. Oyunu oynamak istiyorduk ama hangi el ya da ayağın hangi renge gideceğine karar verecek bir mekanizma yoktu. Annemizden yardım almamız gerekiyordu ve buda sorun yaratıyordu. Bu yüzden **kardeşimle daha rahat ve eğlenceli bir şekilde Twister oynayabilmek için** bu uygulamayı geliştirdim. 🎉
 
 ## Ekran Görüntüleri
 
